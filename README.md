@@ -3,7 +3,10 @@ This application helps to see the position of targets from the mini-map on the s
 Character will fade in 2 seconds after leaving from mini-map
 
 In order to run:
-1. Double click on START.bat
+1. Click on 'Code' -> 'Download ZIP'
+2. Unzip archive anywhere
+3. Double click on START.bat
+
 
 # Example:
 (icons on the left side of screen are app's output)
