@@ -1,0 +1,2 @@
+cd ScreenMap
+ScreenMap.exe
