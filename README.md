@@ -7,6 +7,8 @@ In order to run:
 2. Unzip archive anywhere
 3. Double click on START.bat
 
+In plans:
+- Timer for a mid-boss
 
 # Example:
 (icons on the left side of screen are app's output)
