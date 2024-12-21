@@ -1,7 +1,6 @@
 # ScreenMap-Deadlock
-This application automatically detects targets on the mini-map
-
-and shows icons of found targets on the left side of the screen
+This application automatically detects targets on the mini-map 
+and shows icons of found targets on the left side of the screen.
 
 Characters will fade in 2 seconds after leaving from a mini-map
 
