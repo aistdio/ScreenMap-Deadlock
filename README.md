@@ -1,7 +1,7 @@
 # ScreenMap-Deadlock
 This application helps to see the position of targets from the mini-map on the screen
 
-Character will fade in 2 seconds after leaving from mini-map
+Characters will fade in 2 seconds after leaving from a mini-map
 
 In order to run:
 1. Click on 'Code' -> 'Download ZIP'
